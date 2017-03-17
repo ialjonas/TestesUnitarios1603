@@ -9,19 +9,19 @@ public class Parquimetro {
 		switch (valor) {
 		case 1:
 			saldo += valor;
-
+			break;
 		case 5:
 			saldo += valor;
-
+			break;
 		case 10:
 			saldo += valor;
-
+			break;
 		case 25:
 			saldo += valor;
-
+			break;
 		case 50:
 			saldo += valor;
-
+			break;
 		case 100:
 			saldo += valor;
 			break;
